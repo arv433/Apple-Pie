@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A2CDFCD2218F8A0F00033835 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2CDFCD1218F8A0F00033835 /* Game.swift */; };
 		A2FA469D2188DC1300326F66 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2FA469C2188DC1300326F66 /* AppDelegate.swift */; };
 		A2FA469F2188DC1300326F66 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2FA469E2188DC1300326F66 /* ViewController.swift */; };
 		A2FA46A22188DC1300326F66 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2FA46A02188DC1300326F66 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A2CDFCD1218F8A0F00033835 /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
 		A2FA46992188DC1300326F66 /* Apple Pie.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Apple Pie.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2FA469C2188DC1300326F66 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A2FA469E2188DC1300326F66 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 		A2FA469B2188DC1300326F66 /* Apple Pie */ = {
 			isa = PBXGroup;
 			children = (
+				A2CDFCD1218F8A0F00033835 /* Game.swift */,
 				A2FA469C2188DC1300326F66 /* AppDelegate.swift */,
 				A2FA469E2188DC1300326F66 /* ViewController.swift */,
 				A2FA46A02188DC1300326F66 /* Main.storyboard */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A2FA469F2188DC1300326F66 /* ViewController.swift in Sources */,
+				A2CDFCD2218F8A0F00033835 /* Game.swift in Sources */,
 				A2FA469D2188DC1300326F66 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
